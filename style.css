@@ -86,6 +86,10 @@ li {
         min-height: 25px;
         /* Set minimum height for smaller screens */
     }
+    h1 {
+    font-size: 24px;
+    }
+
 }
 
 
